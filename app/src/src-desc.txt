@@ -1,1 +1,0 @@
-Discard file when other committed in folder.
